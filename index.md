@@ -29,9 +29,12 @@ class Hello {
     }
 }
 ```
-
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
 
 
 Here are the different titles sizes
+
 
 
